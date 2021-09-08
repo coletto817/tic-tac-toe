@@ -46,9 +46,6 @@ function handleClick(e) {
     swapTurns();
     setBoardHoverClass();
   }
-  //Check for win
-  // Check for draw
-  // Switch turns()
 }
 
 function endGame(draw) {
